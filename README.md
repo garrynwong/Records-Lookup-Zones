@@ -14,3 +14,33 @@ Project consists of setting up A and CNAME records in a forward lookup zone.
 - <b>Windows Server 2022</b>
 
 <h2>Program walk-through:</h2>
+
+<h3>Step 1: </h3>
+<p> </p>
+
+- 
+
+<br>
+
+
+<h3>Step 2: </h3>
+<p></p>
+
+- 
+
+<br>
+
+
+<h3>Step 3:  </h3>
+<p></p>
+
+- 
+
+<br>
+
+
+
+
+<h2> Final Thoughts </h2>
+
+<p> In closing, the "" project streamlines our  .</p>
