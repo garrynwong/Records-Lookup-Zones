@@ -23,7 +23,7 @@ Project consists of setting up A and CNAME records in a forward lookup zone.
 <br>
 
 
-<h3>Step 2: change the ip address of the a record from the previous step to a different ip address; clear the dns cache on the machine with ipconfig /flushdns; ping to verify DNS settings </h3>
+<h3>Step 2: change the ip address of the A record from the previous step to a different ip address; clear the dns cache on the machine with ipconfig /flushdns; ping to verify DNS settings </h3>
 <p></p>
 
 - 
