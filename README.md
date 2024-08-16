@@ -43,4 +43,4 @@ Project consists of setting up A and CNAME records in a forward lookup zone.
 
 <h2> Final Thoughts </h2>
 
-<p> In closing, the "" project streamlines our  .</p>
+<p> In closing, the "DNS Records & Lookup Zones" project streamlines our  .</p>
