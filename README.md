@@ -15,7 +15,7 @@ Project consists of setting up A and CNAME records in a forward lookup zone.
 
 <h2>Program walk-through:</h2>
 
-<h3>Step 1: </h3>
+<h3>Step 1: create a new A record in the forward lookup zone for the DC; enter the name and its mapped ip address; ping created name to verify DNS settings </h3>
 <p> </p>
 
 - 
@@ -23,7 +23,7 @@ Project consists of setting up A and CNAME records in a forward lookup zone.
 <br>
 
 
-<h3>Step 2: </h3>
+<h3>Step 2: change the ip address of the a record from the previous step to a different ip address; clear the dns cache on the machine with ipconfig /flushdns; ping to verify DNS settings </h3>
 <p></p>
 
 - 
@@ -31,7 +31,7 @@ Project consists of setting up A and CNAME records in a forward lookup zone.
 <br>
 
 
-<h3>Step 3:  </h3>
+<h3>Step 3: create a new CNAME record that points an alias name to a desired domain name; ping the alias name to verify DNS settings </h3>
 <p></p>
 
 - 
